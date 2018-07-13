@@ -1,0 +1,23 @@
+{
+  "name": "build_blockchain_bitcoin",
+  "version": "1.0.0",
+  "description": "bitcoin blockchain",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/css1990x/build_blockchain_bitcoin.git"
+  },
+  "author": "clifford sutter",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/css1990x/build_blockchain_bitcoin/issues"
+  },
+  "homepage": "https://github.com/css1990x/build_blockchain_bitcoin#readme",
+  "dependencies": {
+    "crypto-js": "^3.1.9-1",
+    "sha256": "^0.2.0"
+  }
+}
